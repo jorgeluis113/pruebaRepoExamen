@@ -1,0 +1,9 @@
+seleccionar --> mascara rapida
+pintas de rojo
+vuelves a mascara rapida y sale con puntos
+nueva capa--> trama 
+encima de las capas se puede editar (si se quita en ventana, propiedades de capas)
+
+debajo del cubo de pintura degradado de manga
+seleccionar reseleccionar para volver a coger lo gris y hacerle degradado
+para quitar los bordes cuadrado de arriba despues de ese q esta a la mitad
